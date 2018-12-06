@@ -1,6 +1,6 @@
 {
   "name": "@wolfx/spider-utils",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "utils for web-spider, easy to use",
   "main": "index.js",
   "author": "wolfx",
