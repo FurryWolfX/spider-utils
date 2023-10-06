@@ -1,4 +1,4 @@
-const request = require("request");
+const request = require("postman-request");
 const cheerio = require("cheerio");
 const iconv = require("iconv-lite");
 

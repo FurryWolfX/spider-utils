@@ -13,8 +13,8 @@
     "utils"
   ],
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "iconv-lite": "^0.4.24",
-    "request": "^2.88.0"
+    "cheerio": "^1.0.0-rc.12",
+    "iconv-lite": "^0.6.3",
+    "postman-request": "2.88.1-postman.33"
   }
 }
